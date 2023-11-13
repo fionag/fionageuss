@@ -1,11 +1,8 @@
 ---
-id: 36
 title: 'Hollow Earth &#8211; Steve Rowell'
 date: '2014-09-03T14:50:19+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.apubliclibrary.org/fg/?p=36'
-permalink: /2014/09/hollow-earth-steve-rowell/
 tags:
     - Projects
 ---

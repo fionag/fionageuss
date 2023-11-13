@@ -1,11 +1,8 @@
 ---
-id: 60
 title: 'THERE IS NO NOW NOW'
 date: '2014-09-03T15:49:35+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.apubliclibrary.org/fg/?p=60'
-permalink: /2014/09/deborah-ligorio-the-eponym/
 tags:
     - Projects
 ---

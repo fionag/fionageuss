@@ -1,15 +1,11 @@
 ---
-id: 42
 title: 'Salon Populaire'
 date: '2014-09-03T15:15:30+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.apubliclibrary.org/fg/?p=42'
-permalink: /2014/09/salon-populaire/
 feature_image: /images/SP_HuB_cFionaGeuss_2012.jpg
 tags:
     - Projects
-format: gallery
 ---
 
 The event space *Salon Populaire* in Berlin Schöneberg invited each week one or more guests to interpret its spatial appearance, experiment with formats and shape an audience. Its self-organized structure, the blurring of hierarchies between host, guest and audience as well as the flexible props created in collaboration with *raumlabor berlin* challenged the representative character of the former bourgeois representational space located at *Kunstsaele Berlin*. The events ranged from small conversation groups to open discussions, from cinema evenings to film installations, performances and concerts. Besides one-off events a number of series were devoted to individual themes over a longer period of time. The thematic dinner evenings *Can you pass the Salt, please?* developed in collaboration with Fotini Lazaridou-Hatzigoga experimented with the dinner party as a conversational format. In the course of discussions about the connections between Berlin institutions the series Bethanien Residents evolved in collaboration with Künstlerhaus Bethanien.

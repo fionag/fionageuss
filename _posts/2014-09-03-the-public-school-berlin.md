@@ -1,11 +1,8 @@
 ---
-id: 54
 title: 'THE PUBLIC SCHOOL BERLIN'
 date: '2014-09-03T15:34:07+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.apubliclibrary.org/fg/?p=54'
-permalink: /2014/09/the-public-school-berlin/
 feature_image: /images/TPSB_revolutionisalsoalanguage.jpg
 tags:
     - Projects

@@ -18,7 +18,7 @@ description: "Fiona Geuß (born 1981) is an art historian and received her Phd f
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://fionag.github.io/fionageuss.github.io/"
+url: "https://fionageuss.net/"
 
 # Favicon
 favicon: images/favicon.png
@@ -29,9 +29,9 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Categories
-    url: /tags/
+    url: /tags
   - text: About
-    url: /about/
+    url: /about
 
 # Colors
 accent_color: '#1C1C82'

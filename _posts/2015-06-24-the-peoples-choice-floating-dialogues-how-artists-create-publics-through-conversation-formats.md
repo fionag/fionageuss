@@ -1,11 +1,8 @@
 ---
-id: 140
 title: 'The People&#8217;s Choice &#8211; Floating Dialogues: How artists create publics through conversation formats'
 date: '2015-06-24T14:02:36+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.fionageuss.net/?p=140'
-permalink: /2015/06/the-peoples-choice-floating-dialogues-how-artists-create-publics-through-conversation-formats/
 tags:
     - Publications
     - 'Talks &amp; Conversations'

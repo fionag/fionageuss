@@ -1,11 +1,8 @@
 ---
-id: 66
 title: 'Deborah Ligorio: The Eponym'
 date: '2014-09-03T15:52:35+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.apubliclibrary.org/fg/?p=66'
-permalink: /2014/09/deborah-ligorio-the-eponym-2/
 feature_image: /images/TE_1_workshop_023.jpg
 tags:
     - Projects

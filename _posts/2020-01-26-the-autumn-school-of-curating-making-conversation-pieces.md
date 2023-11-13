@@ -1,11 +1,8 @@
 ---
-id: 174
 title: 'The Autumn School of Curating: Making Conversation Pieces'
 date: '2020-01-26T17:52:08+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.fionageuss.net/?p=174'
-permalink: /2020/01/the-autumn-school-of-curating-making-conversation-pieces/
 tags:
     - 'Talks &amp; Conversations'
 ---

@@ -1,15 +1,11 @@
 ---
-id: 58
 title: 'Alex Martinis Roe: A story from Circolo della Rosa'
 date: '2014-09-03T15:45:43+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.apubliclibrary.org/fg/?p=58'
-permalink: /2014/09/alex-martinis-roe-a-story-from-circolo-della-rosa/
 feature_image: /images/AK_AMartinisRoe_2014.jpg
 tags:
     - Projects
-format: image
 ---
 
 Alex Martinis Roe’s exhibition *A story from Circolo della Rosa* at [Archive Kabinett](http://www.archivekabinett.org) in March 2014 continues her work on feminist genealogies. The film weaves together fragments from her recent oral history research with members of [Libreria delle donne](http://www.libreriadelledonne.it/) and her experiences of their collective activities, as well as her exploration of related spaces, archives and texts.

@@ -1,10 +1,8 @@
 ---
-id: 189
 title: 'Das dialogische Kunstwerk'
 date: '2023-05-22T17:35:04+00:00'
 author: 'Fiona Geuß'
 layout: post
-permalink: /2023/05/das-dialogische-kunstwerk/
 feature_image: images/geuss-das-dialogische-cover.jpg
 tags:
     - Publications

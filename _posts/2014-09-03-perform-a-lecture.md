@@ -1,11 +1,8 @@
 ---
-id: 31
 title: 'Perform a Lecture!'
 date: '2014-09-03T14:42:40+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.apubliclibrary.org/fg/?p=31'
-permalink: /2014/09/perform-a-lecture/
 tags:
     - Projects
 ---

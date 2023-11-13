@@ -1,15 +1,11 @@
 ---
-id: 133
 title: 'A Public Library'
 date: '2015-01-27T17:21:04+00:00'
 author: 'Fiona Geuß'
 layout: post
-guid: 'http://www.fionageuss.net/?p=133'
-permalink: /2015/01/a-public-library/
 feature_image: /images/apl150214_blackboard.jpg
 tags:
     - Projects
-format: image
 ---
 
 A Public Library was not a public library. From January through December 2015, A Public Library was located at the Bona-Peiser-Bibliothek in Berlin Kreuzberg. It was a space for conversations, presentations, the sharing of resources, and for collective reading, viewing, and learning. It hosted an ephemeral collection of publications and other materials, which provided a foundation for, and expanded along with, a series of public programs, workshops, and classes organized in conjunction with The Public School Berlin as well as other collaborators. 
