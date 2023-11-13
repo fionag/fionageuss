@@ -12,13 +12,13 @@ lang: en-US
 title: "Fiona Geuß"
 
 # A description of your site for meta tag, search engine results.
-description: "Fiona Geuß (born 1981) is an art historian and received her Phd from Freie Universität Berlin in 2020. Her research topic concerns the dialogical artwork and forms of conversation in artistic practices since the 1970s. She was co-organizer of the event space Salon Populaire in Berlin Schöneberg (2010–2012). She organized seminars at the The Public School Berlin, an autodidactic, pedagogical framework founded by Telic Arts Exchange in Los Angeles in 2007 (2010-2015). She held lectures, participated in conferences and taught seminars, amongst others Forms/models of education and self-determination at nGbK Berlin, When exhibitions become politics at Friedrich Schiller Universität in Jena, and most recently at Carl von Ossietzky Universität in Oldenburg. In 2015 she co-founded the initiative A Public Library in Berlin. Since 2016 she is curator for communications at Hamburger Bahnhof – Museum für Gegenwart – Berlin."
+description: "Fiona Geuß is an art historian and received her Phd from Freie Universität Berlin in 2020. Her research topic concerns the dialogical artwork and forms of conversation in artistic practices since the 1970s."
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/fionageuss"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://fionageuss.net/"
+url: "https://fionageuss.net"
 
 # Favicon
 favicon: images/favicon.png
