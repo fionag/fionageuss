@@ -16,6 +16,4 @@ Published by [transcipt – independent academic publishing ](https://www.transc
 11 Mai 2023, 246 Seiten  
 ISBN: 978-3-8376-6464-5
 
-{% include image_full.html imageurl="/images/IMG_7982.jpg" title="Das dialogische Kunstwerk" caption="Das dialogische Kunstwerk" %}
-
 
