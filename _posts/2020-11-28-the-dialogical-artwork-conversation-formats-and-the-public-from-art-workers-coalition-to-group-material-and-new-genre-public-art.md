@@ -3,7 +3,7 @@ title: 'The Dialogical Artwork. Conversation formats and the public from Art Wor
 date: '2020-11-28T12:15:04+00:00'
 author: 'Fiona Geuß'
 layout: post
-feature_image: images/temp-open.png
+feature_image: images/dialogical-artwork.jpg
 tags:
     - Publications
 ---
