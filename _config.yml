@@ -15,7 +15,7 @@ title: "Fiona Geuß"
 description: "Fiona Geuß is an art historian and received her Phd from Freie Universität Berlin in 2020. Her research topic concerns the dialogical artwork and forms of conversation in artistic practices since the 1970s."
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/fionageuss"
+baseurl: "/"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://fionageuss.net"
